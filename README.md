@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Software Architecture and python**
+- 🌱 I’m currently learning **Software Architecture and Python**
 - 👯 I’m looking to collaborate on **Web development and AI projects**
 - 📫 How to reach me: **[jiangvalerio1998@gmail.com]**
 
@@ -16,8 +16,9 @@
 ### 🛠️ Languages and Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
